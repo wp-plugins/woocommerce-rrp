@@ -33,7 +33,7 @@ If WooCommerce RRP has made your life a little easier, please leave a positive r
 
 = What if I want to change the "Product Price Text" for a certain product? =
 
-This can be done using the built in [WordPress add filter function](http://codex.wordpress.org/Function_Reference/add_filter "Function Reference/add filter"). For example, if we had a product with an id of 96 and we wanted to change the text of the "Product Price Text" field to "Your new Product Price Text, the function would like this:
+This can be done using the built in [WordPress add filter function](http://codex.wordpress.org/Function_Reference/add_filter "Function Reference/add filter"). For example, if we had a product with an id of 96 and we wanted to change the text of the "Product Price Text" field to "Your new Product Price Text", the function would like this:
 
 `
 function change_before_regular_price( $woo_rrp_before_price ) {
@@ -74,6 +74,8 @@ Sure, there are two filters available for you to use:
 No, You will need to tidy this up yourself using a little CSS styling.
 
 = There isn't any translations of this plugin, can I provide you a translation in my local language to include? =
+
+Sure, that would be awesome!
 
 == Screenshots ==
 
