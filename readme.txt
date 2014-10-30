@@ -15,7 +15,7 @@ WooCommerce RRP allows a users to add text before the regular price and sale pri
 
 If you would like to change the display text for a certain product, you can use the [WordPress add filter function](http://codex.wordpress.org/Function_Reference/add_filter "Function Reference/add filter"), please see the FAQ for an example.
 
-Ideally I would have been able to release WooCommerce RRP with translations, this was not the case, so if you would like to add a translation I and others would greatly appreciate it.
+Ideally I would have liked to have been able to release WooCommerce RRP with translations, this was not the case, so if you would like to add a translation I and others would greatly appreciate it.
 
 If you have suggestions for new features, please add your idea in the "Support" area for this plugin.
 
