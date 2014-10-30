@@ -1,5 +1,5 @@
 === WooCommerce RRP ===
-Contributors: Brad-Davis
+Contributors: Brad Davis
 Tags: woocommerce, woocommerce-price, wc-admin, woocommerce-admin, woocommerce-product-settings, admin, wp-admin, wordpress-admin
 Requires at least: 4.0
 Tested up to: 4.0
