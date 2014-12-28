@@ -2,7 +2,7 @@
 Contributors: Brad Davis
 Tags: woocommerce, woocommerce-price, wc-admin, woocommerce-admin, woocommerce-product-settings, admin, wp-admin, wordpress-admin
 Requires at least: 4.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -15,7 +15,7 @@ WooCommerce RRP allows a users to add text before the regular price and sale pri
 
 If you would like to change the display text for a certain product, you can use the [WordPress add filter function](http://codex.wordpress.org/Function_Reference/add_filter "Function Reference/add filter"), please see the FAQ for an example.
 
-Ideally I would have liked to have been able to release WooCommerce RRP with translations, this was not the case, so if you would like to add a translation I and others would greatly appreciate it.
+If you would like to add a translation I would greatly appreciate it, please contact me directly.
 
 If you have suggestions for new features, please add your idea in the "Support" area for this plugin.
 
@@ -25,11 +25,19 @@ If WooCommerce RRP has made your life a little easier, please leave a positive r
 
 == Installation ==
 
+= WooCommerce Compatibility =
+
+Tested up to 2.2.10
+
 1. Upload WooCommerce RRP to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to WooCommerce > Settings and add your text to the input areas in "Currency Options". See Screenshots for a visual explanation.
 
 == Frequently Asked Questions ==
+
+= What versions of WooCommerce is this compatible with? =
+
+I have tested this plugin with WooCommerce version 2.0.0 up to 2.2.10.
 
 = What if I want to change the "Product Price Text" for a certain product? =
 
